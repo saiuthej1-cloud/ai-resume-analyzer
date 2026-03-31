@@ -1,6 +1,10 @@
 # 🤖 AI Resume Analyzer
 
-A full-stack web application for uploading and analyzing candidate resumes.
+🚀 A full-stack web application that analyzes resumes and provides insights into candidate skills and experience.
+
+## 🔗 Live Links
+- GitHub: https://github.com/saiuthej1-cloud/ai-resume-analyzer
+
 
 **Stack:** Java 21 + Spring Boot 3.5 (backend) · React 18 (frontend)
 
@@ -139,3 +143,5 @@ curl http://localhost:8080/api/resumes/health
 - Add file upload support (PDF parsing with Apache PDFBox)
 - Integrate OpenAI API for skill gap analysis
 - Add authentication with Spring Security + JWT
+- ## 💼 Resume Description
+Developed a full-stack AI Resume Analyzer using React and Spring Boot that enables users to upload, view, and manage resumes through REST APIs. Implemented features like resume parsing, CRUD operations, and responsive UI with cross-origin integration.
